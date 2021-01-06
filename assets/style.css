@@ -1,6 +1,9 @@
+/*Content Styling*/
+
 .page-title{
 font-family: 'Roboto', sans-serif;
 font-size: 30px;
+text-transform: uppercase;
 }
 
 .section-title{
@@ -16,4 +19,25 @@ font-size: 15px;
 .content-list{
 font-family: 'Oxygen', sans-serif;
 font-size: 18px;
+}
+
+/*Header Styling*/
+
+.header-style{
+    background-color: cadetblue;
+}
+
+.nav-style{
+    color: #fafafa;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.nav-style:active{
+    background-color: gray;
+}
+
+.nav-style:hover{
+    transition: 0.5s;
+    color: rgb(105, 105, 105);
 }
