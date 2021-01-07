@@ -45,9 +45,21 @@ font-size: 18px;
 
 /*Sections Style*/
 
+.carousel-inner>.item {
+    display: none;
+    position: relative;
+    -webkit-transition: .6s ease-in-out left;
+    -o-transition: .6s ease-in-out left;
+    transition: .6s ease-in-out left;
+}
+.shark-carousel{
+    margin: auto;
+}
+
 .shark-info{
     margin: 10px;
     background-color: darkcyan;
+    
 }
 
 .shark-image{
