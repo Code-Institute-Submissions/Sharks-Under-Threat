@@ -4,6 +4,7 @@
 font-family: 'Roboto', sans-serif;
 font-size: 50px;
 text-transform: uppercase;
+padding-top: 20px;
 }
 
 .page-title-two{
@@ -137,4 +138,18 @@ margin-bottom: 5px;
 
 .footer-style{
     background-color: rgb(1, 65, 65);
+}
+
+.socials{
+    color: whitesmoke;
+    font-size: 40px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    align-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+
 }
