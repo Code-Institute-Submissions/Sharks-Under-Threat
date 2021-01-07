@@ -45,6 +45,11 @@ font-size: 18px;
 
 /*Sections Style*/
 
+.shark-info{
+    margin: 10px;
+    background-color: darkcyan;
+}
+
 .shark-image{
     background-color: red;
     width: 100px;
