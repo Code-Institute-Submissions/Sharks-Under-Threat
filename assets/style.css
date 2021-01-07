@@ -80,8 +80,9 @@ font-size: 18px;
 }
 
 .shark-info{
-    margin: 10px;
-    background-color: whitesmoke;
+    margin: 10px 10px 30px 10px;
+    background-color: rgba(245, 245, 245, 0.616);
+    box-shadow:5px 5px ;
     
 }
 
