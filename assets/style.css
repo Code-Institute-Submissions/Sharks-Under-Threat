@@ -76,27 +76,33 @@ font-size: 18px;
 }
 
 .shark-image-left{
-    background-color: red;
-    width: 100px;
-    height: 100px;
+    background-image: url(../assets/images/index/hammerhead.jpg);
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     margin: auto;
+    background-position: center;
+    object-fit: fill;
+    
 }
 
 .shark-image-center{
-    background-color: red;
-    width: 100px;
-    height: 100px;
+    background-image: url(../assets/images/index/greatwhite.jpg);
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     margin: auto;
+    background-position: center;
+   
 }
 
 .shark-image-right{
-    background-color: red;
-    width: 100px;
-    height: 100px;
+    background-image: url(../assets/images/index/tiger.jpg);
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     margin: auto;
+    background-position: center;
 }
 
 /*Footer Styling*/
