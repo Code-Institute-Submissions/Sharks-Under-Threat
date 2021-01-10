@@ -49,7 +49,7 @@ margin-bottom: 5px;
 /*Header Styling*/
 
 .header-style{
-    background-color: rgb(45, 169, 173);
+    background-color: rgb(36, 184, 189);
 }
 
 .nav-style{
@@ -92,11 +92,11 @@ margin-bottom: 5px;
 }
 
 .section-one{
-    background-color: rgb(44, 187, 187);
+    background-color: rgb(101, 233, 233);
 }
 
 .section-two{
-    background-color: darkcyan;
+    background-color: rgb(8, 185, 185);
     padding: 30px 10% 30px 10%;
 }
 
@@ -110,7 +110,6 @@ margin-bottom: 5px;
     padding: 0px 20px 0px 20px;
     background-color: rgba(245, 245, 245, 0.616);
     box-shadow:5px 5px ;
-    
 }
 
 .shark-image-left{
