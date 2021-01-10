@@ -19,7 +19,7 @@ padding-top: 20px;
 .section-title-one{
     font-family: 'Roboto', sans-serif;
     font-size: 35px;
-    margin: 20px 0px 20px 0px;
+    padding: 20px 0px 20px 0px;
     text-transform: uppercase;
     color: whitesmoke;
 }
@@ -27,7 +27,7 @@ padding-top: 20px;
 .page-title-two{
     font-family: 'Roboto', sans-serif;
     font-size: 45px;
-    margin: 20px 0px 20px 0px;
+    padding: 20px 0px 20px 0px;
     text-transform: uppercase; 
     color: whitesmoke; 
 }
@@ -42,7 +42,8 @@ padding-top: 20px;
 .content{
 font-family: 'Oxygen', sans-serif;
 font-size: 15px;
-margin-bottom: 20px;
+padding: 20px;
+margin: 0px;
 }
 
 .content-list{
@@ -125,9 +126,6 @@ margin-bottom: 5px;
     background-color: rgb(3, 116, 116);
 }
 
-
-
-
 .section-three-index{
     background-color: rgb(8, 185, 185);
     padding: 30px 10% 30px 10%;
@@ -173,6 +171,22 @@ margin-bottom: 5px;
     margin: auto;
     margin-bottom: 30px;
     background-position: center;
+}
+
+.threats-image-one{
+    background-image: ;
+}
+
+.threats-image-two{
+    background-image: ;
+}
+
+.threats-image-three{
+    background-image: ;
+}
+
+.threats-image-four{
+    background-image: ;
 }
 
 @media (min-width:992px){
