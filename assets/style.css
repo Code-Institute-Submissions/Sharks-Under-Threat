@@ -232,6 +232,38 @@ margin-bottom: 5px;
 
 /*Actions*/
 
+.actions-content{
+    color: whitesmoke;
+    margin: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-shadow: #000 0px 0px 2px;
+}
+
+.actions-image-one{
+    background-image:url(../assets/images/actions/emissions.jpg) ;
+    background-size: cover;
+    height: 450px;
+}
+
+.actions-image-two{
+    background-image:url(../assets/images/actions/cows.jpg) ;
+    background-size: cover;
+    height: 450px;
+}
+
+.actions-image-three{
+    background-image:url(../assets/images/actions/goodfood.jpg) ;
+    background-size: cover;
+    height: 450px;
+}
+
+.actions-image-four{
+    background-image:url(../assets/images/actions/stopshark.jpg) ;
+    background-size: cover;
+    height: 450px;
+}
+
 /*Sign-up*/
 
 /*Media Queries*/
@@ -266,7 +298,26 @@ margin-bottom: 5px;
     .threats-content{
         background: none;
     }
-}
+    
+    .actions-image-one{
+        height: 200px;   
+    }
+
+    .actions-image-two{
+        height: 200px;   
+    }
+
+    .actions-image-three{
+        height: 200px;   
+    }
+
+    .actions-image-four{
+        height: 200px;   
+    }
+
+    .actions-content{
+        background: none;
+    }
 
 /*Footer Styling*/
 
