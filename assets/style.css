@@ -106,29 +106,31 @@ margin-bottom: 5px;
 }
 
 .section-one{
-    background-color: rgb(145, 243, 243);
-}
-
-.section-two{
-    background-color: rgb(8, 185, 185);
-}
-
-.section-three{
-    background-color: teal;
-}
-
-
-.section-four{
     background-color: rgb(184, 248, 248) ;
 }
 
-.section-two-index{
+.section-two{
+    background-color: rgb(132, 220, 247);
+}
+
+.section-three{
+    background-color: rgb(8, 185, 185);
+}
+
+.section-four{
+    background-color: rgb(4, 131, 131);
+}
+
+
+
+
+.section-three-index{
     background-color: rgb(8, 185, 185);
     padding: 30px 10% 30px 10%;
 }
 
-.section-three-index{
-    background-color: teal;
+.section-four-index{
+    background-color: rgb(4, 131, 131);
     padding: 30px 7.5% 30px 7.5%;
 }
 
