@@ -181,20 +181,29 @@ margin-bottom: 5px;
     background-position: center;
 }
 
+.threats-content{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
 .threats-image-one{
     background-image:url(../assets/images/threats/pollution.jpg) ;
+    background-size: cover;
 }
 
 .threats-image-two{
     background-image:url(../assets/images/threats/overfishing.jpg) ;
+    background-size: cover;
 }
 
 .threats-image-three{
     background-image:url(../assets/images/threats/plastic.jpg) ;
+    background-size: cover;
 }
 
 .threats-image-four{
     background-image:url(../assets/images/threats/sharkfin.jpg) ;
+    background-size: cover;
 }
 
 @media (min-width:992px){
