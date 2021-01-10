@@ -52,6 +52,10 @@ margin-bottom: 5px;
     background-color: rgb(36, 184, 189);
 }
 
+.nav-row{
+    margin: auto;
+}
+
 .nav-style{
     color: #fafafa;
     font-size: 18px;
@@ -186,6 +190,7 @@ margin-bottom: 5px;
         display: none;
     }
 }
+
 
 /*Boostrap overwite*/
 
