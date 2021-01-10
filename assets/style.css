@@ -16,20 +16,28 @@ text-transform: uppercase;
 padding-top: 20px;
 }
 
-.section-title-one{
-    font-family: 'Roboto', sans-serif;
-    font-size: 35px;
-    padding: 20px 0px 20px 0px;
-    text-transform: uppercase;
-    color: whitesmoke;
-}
-
 .page-title-two{
     font-family: 'Roboto', sans-serif;
     font-size: 45px;
     padding: 20px 0px 20px 0px;
     text-transform: uppercase; 
     color: whitesmoke; 
+}
+
+.page-title-two-black{
+    font-family: 'Roboto', sans-serif;
+    font-size: 45px;
+    padding: 20px 0px 20px 0px;
+    text-transform: uppercase; 
+    color: black; 
+}
+
+.section-title-one{
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+    padding: 20px 0px 20px 0px;
+    text-transform: uppercase;
+    color: whitesmoke;
 }
 
 .section-title-two{
@@ -174,19 +182,19 @@ margin-bottom: 5px;
 }
 
 .threats-image-one{
-    background-image: ;
+    background-image:url(../assets/images/threats/pollution.jpg) ;
 }
 
 .threats-image-two{
-    background-image: ;
+    background-image:url(../assets/images/threats/overfishing.jpg) ;
 }
 
 .threats-image-three{
-    background-image: ;
+    background-image:url(../assets/images/threats/plastic.jpg) ;
 }
 
 .threats-image-four{
-    background-image: ;
+    background-image:url(../assets/images/threats/sharkfin.jpg) ;
 }
 
 @media (min-width:992px){
