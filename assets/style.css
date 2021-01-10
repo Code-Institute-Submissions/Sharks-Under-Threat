@@ -162,6 +162,8 @@ margin-bottom: 5px;
 
 .footer-style{
     background-color: rgb(1, 65, 65);
+    width: 100%;
+    margin: 0px;
 }
 
 .creator-name{
@@ -198,6 +200,11 @@ margin-bottom: 5px;
 
     .personal-note{
         display: none;
+    }
+
+    .socials-box{
+        padding-left: 0px;
+        padding-right: 0px;
     }
 }
 
