@@ -173,3 +173,22 @@ margin-bottom: 5px;
 .socials:hover{
     color: lightslategray;
 }
+
+@media (max-width: 576px){
+    
+    .creator-name{
+        display: none;
+    }
+
+    .personal-note{
+        display: none;
+    }
+}
+
+/*Boostrap overwite*/
+
+.container-fluid{
+    padding-left: 0px;
+    padding-right: 0px;
+    overflow: hidden;
+}
