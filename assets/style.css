@@ -28,7 +28,8 @@ padding-top: 20px;
     font-family: 'Roboto', sans-serif;
     font-size: 45px;
     margin: 20px 0px 20px 0px;
-    text-transform: uppercase;  
+    text-transform: uppercase; 
+    color: whitesmoke; 
 }
 
 .section-title-two{
