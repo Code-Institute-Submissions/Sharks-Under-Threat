@@ -111,10 +111,23 @@ margin-bottom: 5px;
 
 .section-two{
     background-color: rgb(8, 185, 185);
-    padding: 30px 10% 30px 10%;
 }
 
 .section-three{
+    background-color: teal;
+}
+
+
+.section-four{
+    background-color: rgb(184, 248, 248) ;
+}
+
+.section-two-index{
+    background-color: rgb(8, 185, 185);
+    padding: 30px 10% 30px 10%;
+}
+
+.section-three-index{
     background-color: teal;
     padding: 30px 7.5% 30px 7.5%;
 }
