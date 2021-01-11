@@ -275,16 +275,28 @@ margin-bottom: 5px;
     background-color: rgb(0,0,0,0.4);
     background-clip:border-box;
     color: whitesmoke;
-    padding: 30px 0px 30px 0px
+    padding: 50px 0px 50px 0px;
 }
 
 .form-section-item{
     padding: 10px 0px 10px 0;
+    text-align: center;
+}
+
+.form-radio{
+    display: block;
 }
 
 .form-style{
     margin-left: auto;
     margin-right: auto;
+}
+
+.submit-styling{
+    background-color:rgb(105, 105, 105);
+    border: none;
+    padding: 10px;
+    text-transform: uppercase;
 }
 /*Media Queries*/
 
