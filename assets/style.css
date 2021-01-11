@@ -266,6 +266,26 @@ margin-bottom: 5px;
 
 /*Sign-up*/
 
+.signup-image{
+    background-image: url(../assets/images/signup/sharksbackground.jpg);
+    background-size: cover;
+}
+
+.form-section{
+    background-color: rgb(0,0,0,0.4);
+    background-clip:border-box;
+    color: whitesmoke;
+    padding: 30px 0px 30px 0px
+}
+
+.form-section-item{
+    padding: 10px 0px 10px 0;
+}
+
+.form-style{
+    margin-left: auto;
+    margin-right: auto;
+}
 /*Media Queries*/
 
 @media (min-width:992px){
