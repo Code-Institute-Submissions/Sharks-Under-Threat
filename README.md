@@ -1,5 +1,48 @@
 # Sharks-Under-Threat
-Milestone Project 1
+#Milestone Project 1 (Sharks Under Threat)
+[Visit My Site Here] (https://ibrazyi.github.io/Milestone-Project-1-V2/)
+
+##Overview
+This website is an information hub for people who care about sharks and other marine life. What the threats to these creatures are and also the ways in which they can,
+in thier every day lives help reduce the impacts they have on sharks and the enviroment they live in. With a bright and ocean theme the intention is to use large pictures
+with short paragraphs of texts to keep peoples attention and get the info across quickley.
+
+## Table of Contents
+
+[UX (User Experience)] (#ux)
+
+[Features] (#features)
+
+[Technolgies Used] (#technolgies)
+
+[Testing] (#testing)
+
+[Deployment] (#deployment)
+
+[Credits] (#credits)
+
+<a name="UX"></a>
+## UX
+
+<a name="features"></a>
+## Features 
+### Existing Features 
+### Features Left to Implement
+
+<a name="technolgies"></a>
+## Technologies Used
+
+<a name="Testing"></a>
+## Testing
+
+<a name="Deployment"></a>
+## Deployment
+
+<a name="credits"></a>
+## Credits
+ ### Content 
+ ### Media 
+ ### Acknowledgements
 
 https://images.unsplash.com/photo-1504317012549-ab93d787a825?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8d2hhbGUlMjBzaGFya3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
 https://images.unsplash.com/photo-1586115457457-b3753fe50cf1?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fGdyZWF0JTIwd2hpdGUlMjBzaGFya3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
@@ -16,3 +59,4 @@ https://images.unsplash.com/photo-1602025035269-40c624bfc2c9?ixid=MXwxMjA3fDB8MH
 https://www.nationalgeographic.com/content/dam/news/photos/000/427/42722.ngsversion.1422035714302.adapt.1900.1.jpg
 https://images.unsplash.com/photo-1454179083322-198bb4daae41?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8ZmFybSUyMGFuaW1hbHN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
 https://images.unsplash.com/photo-1603985468256-01e22288b0ee?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OXx8Y3V0ZSUyMHNoYXJrfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
+https://images.unsplash.com/photo-1594736979290-0d04faa0044b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1316&q=80
