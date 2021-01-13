@@ -24,7 +24,20 @@ with short paragraphs of texts to keep peoples attention and get the info across
 
 <a name="UX"></a>
 ## UX
-user stories- first time visitor, returning user
+
+### User Stories
+
+#### First Time Visitor
+- A first time visitor to the site will want to be drawn in by the colour and the images making them want to discover the information underneath.
+- A first time visitor wants to be able to navigate the website easially know what page they are currently on.
+- A first time visitor wants to see short but intresting pieces of text to keep thier attention and help them emphapihse with the cause of the site.
+
+#### Returning User
+- A returning visitor will want to be able to get thier friends to sign up to the page easially to support their cause.
+- A returning visitor wants to find the social media information quickley and be taken to the relevant site.
+
+### Strategy
+- The strategy of the site is to provide a platorm 
 strategy-
 scope-
 structure-
