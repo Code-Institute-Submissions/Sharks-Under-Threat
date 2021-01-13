@@ -7,9 +7,10 @@ This website is an information hub for people who care about sharks and other ma
 in thier every day lives help reduce the impacts they have on sharks and the enviroment they live in. With a bright and ocean theme the intention is to use large pictures
 with short paragraphs of texts to keep peoples attention and get the info across quickley.
 
+
 ## Table of Contents
 
-[UX (User Experience)] (#ux)
+[UX] (User Experience) (#ux)
 
 [Features] (#features)
 
@@ -23,26 +24,61 @@ with short paragraphs of texts to keep peoples attention and get the info across
 
 <a name="UX"></a>
 ## UX
+user stories- first time visitor, returning user
+strategy-
+scope-
+structure-
+skeleton-
+surface-
 
 <a name="features"></a>
 ## Features 
+Nav Bar
+Carousel
+
 ### Existing Features 
 ### Features Left to Implement
+improvements
 
 <a name="technolgies"></a>
 ## Technologies Used
+langauges used HTML
+CSS
+
+libarys bootsrap, google fonts, font awesome jquery
+
+programs used, VS code, git , git pod, git hub
+
+adtional, html validatior, css validator, adobe wireframes
 
 <a name="Testing"></a>
 ## Testing
+tested on diffrent devices
+tested on diffrent web browsers
+used diffrent peoples opinions
+html validator
+css validator
+
 
 <a name="Deployment"></a>
 ## Deployment
+how i added to git hub
 
 <a name="credits"></a>
 ## Credits
+social media icons Matt Rudge Code insitute resume project
+bootstrap carousel/navbar, page layout
  ### Content 
+ shark information
+ shark websites for design inspiration
+
  ### Media 
+ images used links below
+ program used to size images
+
  ### Acknowledgements
+mentor for support
+boostrap forums
 
 https://images.unsplash.com/photo-1504317012549-ab93d787a825?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8d2hhbGUlMjBzaGFya3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
 https://images.unsplash.com/photo-1586115457457-b3753fe50cf1?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fGdyZWF0JTIwd2hpdGUlMjBzaGFya3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
