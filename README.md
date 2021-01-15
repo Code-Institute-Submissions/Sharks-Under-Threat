@@ -65,7 +65,9 @@ with short paragraphs of texts to keep peoples attention and get the info across
 - Navigation is located at the top of the page showing importance and ease of acsess for the user.
 - Current page is highlighted so it is obvious what page the user is currently on so they dont get lost.
 ### Surface
+#### Typography
 
+#### Colour Scheme
 
 <a name="features"></a>
 ## Features 
