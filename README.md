@@ -38,12 +38,22 @@ with short paragraphs of texts to keep peoples attention and get the info across
 
 ### Strategy
 - The strategy of the site is to provide a platorm to learn information about the threats to sharks and what the visitor can do to help. This creates more awareness of the issue and encourages people to do somthing about it.
-strategy-
-scope-
-structure-
-skeleton-
-surface-
+### Scope
+- Provide visitors with basic but intresting information.
+- Provide a clean looking UX for easy navigation and information absorbsion.
+- Provide a call to action to get the visitor involved.
+- Empower visitors encoraging them to make a diffrence themselves.
+### Structure
+#### Interaction Design
+- Design a responsive website, that looks good at works well at all screen sizes.
+- Responsive navigation that allows users to easily navigate between pages and know what page they are on at all times.
+#### Information Architecture
+- Content needs to be sectioned in a way that allows for easy uptake with little distractions.
+- Images need to be displayed to flow with the page and not distract from the information sections.
+- Content of page needs to flow between sections for easy page navigation with clear titles and breaks.
+### Skeleton
 
+### Surface
 <a name="features"></a>
 ## Features 
 Nav Bar
