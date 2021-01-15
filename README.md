@@ -52,6 +52,9 @@ with short paragraphs of texts to keep peoples attention and get the info across
 - Images need to be displayed to flow with the page and not distract from the information sections.
 - Content of page needs to flow between sections for easy page navigation with clear titles and breaks.
 ### Skeleton
+#### Wireframes
+- Mobile Wireframes 
+- Deskop Wireframes
 #### Information Design
 
 #### Interface Design
