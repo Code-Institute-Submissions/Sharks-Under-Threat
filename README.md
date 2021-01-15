@@ -80,17 +80,28 @@ The site is split up into four diffrent pages, each is designed to be responsive
 4. Signup - Containing a large background image. Complete with sign up section with forms containing; Name, Email, radio selector and submit button.
 #### Existing Features 
 - All pages contain a Boostrap 5 Nav Bar, complete with links to all other pages and displays active page.
+- All pages contain footer, using font awesome social media icons each with hover change of colour effect.
 - Boostrap 5 Carousel, consisting of 3 images on a cycle with information labels about each picture.
 #### Features Left to Implement
 - Possibilty of adding another page containing a gallery of multiple images of sharks, this would be responsive and contain mouseover elements.
 
 
 <a name="technolgies"></a>
-## Technologies Used
-langauges used HTML
-CSS
 
-libarys bootsrap, google fonts, font awesome jquery
+### Technologies Used
+#### Languages
+- HTML5 - Used as the structure of the website and container for content.
+- CSS3 - Used to style and manipuate content with effects.
+#### Libaries
+- [Boostrap](https://getbootstrap.com/) - Used for responsive design and templates for nav bar, carousel and page layout.
+- [GoogleFonts](https://fonts.google.com/) - Used as the libary for both fonts used in the webpage.
+- [FontAwesome](https://fontawesome.com/) - Used for social media icons in footer.
+- [Jquery](https://getbootstrap.com/docs/4.2/getting-started/introduction/) - Used to allow functionality of Boostrap carousel.
+#### Programs
+- VS Code - Where all coding took place, also using intergrated terminal.
+- Git Hub Desktop - Used to create repository and link to online Git Hub profile.
+- Git Hub - Used to host and display website.
+- Adobe XD - Used for the creation of wireframes.
 
 programs used, VS code, git , git pod, git hub
 
