@@ -1,8 +1,8 @@
 # Sharks-Under-Threat
-#Milestone Project 1 (Sharks Under Threat)
+# Milestone Project 1 (Sharks Under Threat)
 [Visit My Site Here] (https://ibrazyi.github.io/Milestone-Project-1-V2/)
 
-##Overview
+## Overview
 This website is an information hub for people who care about sharks and other marine life. What the threats to these creatures are and also the ways in which they can,
 in thier every day lives help reduce the impacts they have on sharks and the enviroment they live in. With a bright and ocean theme the intention is to use large pictures
 with short paragraphs of texts to keep peoples attention and get the info across quickley.
@@ -37,7 +37,7 @@ with short paragraphs of texts to keep peoples attention and get the info across
 - A returning visitor wants to find the social media information quickley and be taken to the relevant site.
 
 ### Strategy
-- The strategy of the site is to provide a platorm 
+- The strategy of the site is to provide a platorm to learn information about the threats to sharks and what the visitor can do to help. This creates more awareness of the issue and encourages people to do somthing about it.
 strategy-
 scope-
 structure-
