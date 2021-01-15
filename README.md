@@ -66,16 +66,15 @@ with short paragraphs of texts to keep peoples attention and get the info across
 - Current page is highlighted so it is obvious what page the user is currently on so they dont get lost.
 ### Surface
 #### Typography
-
+Two fonts were selected for the use on this site they are Roboto and Oxygen, both are from [GoogleFonts](https://fonts.google.com/).
+- Roboto, this was used for the headings and titles of the page as it is a bolder and sharper font.
+- Oxyen, this was used for the content of the page slightley less bold and with more flow than Roboto. 
 #### Colour Scheme
-
-<a name="features"></a>
-## Features 
-Nav Bar
-Carousel
-
-### Existing Features 
-### Features Left to Implement
+[Colour Pallet](https://coolors.co/24b8bd-b8f8f8-06cece-08b9b9-2283bf-014141)
+The aim of the colour scheme was to represent the ocean to tie in the theme and the information. With this in mind the colours are all variants of blue slowley darkening as you get deeper into the page. The brighter blue of the header represents to sky.
+### Features
+#### Existing Features 
+#### Features Left to Implement
 improvements
 
 <a name="technolgies"></a>
