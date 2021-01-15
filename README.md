@@ -53,8 +53,8 @@ with short paragraphs of texts to keep peoples attention and get the info across
 - Content of page needs to flow between sections for easy page navigation with clear titles and breaks.
 ### Skeleton
 #### Wireframes
-- Mobile Wireframes 
-- Deskop Wireframes
+- Mobile Wireframes [Home](assets/images/wireframes/Sharks Under Threat Mobile - Home.jpg) [Threats](assets/images/wireframes/Sharks Under Threat Mobile - Under Threat.jpg) [Actions](assets/images/wireframes/Sharks Under Threat Mobile - What we can do.jpg) [Gallery](assets/images/wireframes/Sharks Under Threat Mobile - Gallery.jpg) [Signup](assets/images/wireframes/Sharks Under Threat Mobile - Newsletter.jpg)
+- Deskop/Tablet Wireframes [Home](assets/images/wireframes/Sharks Under Threat Tablet-PC - Home.jpg) [Threats](assets/images/wireframes/Sharks Under Threat Tablet-PC - Under Threat.jpg)  [Actions](assets/images/wireframes/Sharks Under Threat Tablet-PC - What we can do.jpg)  [Gallery](assets/images/wireframes/Sharks Under Threat Tablet-PC - Gallery.jpg)  [Signup](assets/images/wireframes/Sharks Under Threat Tablet-PC - Newsletter.jpg) 
 #### Information Design
 
 #### Interface Design
