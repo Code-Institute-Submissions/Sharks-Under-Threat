@@ -73,9 +73,17 @@ Two fonts were selected for the use on this site they are Roboto and Oxygen, bot
 [Colour Pallet](https://coolors.co/24b8bd-b8f8f8-06cece-08b9b9-2283bf-014141)
 The aim of the colour scheme was to represent the ocean to tie in the theme and the information. With this in mind the colours are all variants of blue slowley darkening as you get deeper into the page. The brighter blue of the header represents to sky.
 ### Features
+The site is split up into four diffrent pages, each is designed to be responsive at all screen sizes and complete with working external links.
+1. Home - Containing a Boostrap 5 Carousel, an introduction to the site and three small information cards about seperate sharks.
+2. Threats - Containing Multiple sections containing images and text displayed in an alternating manner.
+3. Actions - Containing Multiple sections containing images and text displayed in an alternating manner.
+4. Signup - Containing a large background image. Complete with sign up section with forms containing; Name, Email, radio selector and submit button.
 #### Existing Features 
+- All pages contain a Boostrap 5 Nav Bar, complete with links to all other pages and displays active page.
+- Boostrap 5 Carousel, consisting of 3 images on a cycle with information labels about each picture.
 #### Features Left to Implement
-improvements
+- Possibilty of adding another page containing a gallery of multiple images of sharks, this would be responsive and contain mouseover elements.
+
 
 <a name="technolgies"></a>
 ## Technologies Used
