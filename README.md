@@ -122,14 +122,46 @@ The site is split up into four diffrent pages, each is designed to be responsive
 <a name="Testing"></a>
 
 ## Testing
-- HTML Validatior- No errors to show.
-- CSS Validator- No errors to show.
+### Code Validators
+- HTML Validator - No errors to show.
+- CSS Validator - No errors to show.
+
+### Devices
+- Iphone 6/7/8 - Displays as intended.
+- Samsung Galaxy S9 - Displays as intended.
+- Samsung Galaxy S20 FE - Displays as intended.
+- Ipad - Displays as intended.
+- Laptop - Displays as intended.
+- Desktop - Displays as intended.
+
+### Browsers 
+- Chrome - No errors.
+- Firefox - No errors.
+- Internet Explorer - Images slow to load.
+- Microsoft Edge - No errors.
+- Opera - No errors.
+- Safari - No errors.
 
 
 <a name="Deployment"></a>
 
 ## Deployment
-how i added to git hub
+### Creating Repository
+1. Created new file inside documents folder named "Coding Course" and within that created a file called "Sharks-Under-Threat(Milestone Project 1)"
+2. Opened GibHub Desktop and selected "New Repository"
+3. Gave the project name "Sharks-Under-Threat" and clicked "Create Repository"
+4. Opened the repository in VS Code
+5. Created index.html and README.md pages
+6. Opened up local terminal and "Git Added" both pages.
+7. Commited both pages using "Git Commit".
+8. Pushed changed with "Git Push" adding my work to my Git Hub page.
+9. Opened my GitHib page to see the changes.
+
+### Viewing Site
+1. After logging in to GibHub i went to the "settings" tab.
+2. Upon scrolling down to "Danger Zone" i set the repository to "Public".
+3. Scrolling back up to "GitHub Pages" set the source "Branch-main", "File-Root" and selected save.
+4. After reloading and scrolling back down to "GitHub Pages" selected the link where my site had been published.
 
 <a name="credits"></a>
 
