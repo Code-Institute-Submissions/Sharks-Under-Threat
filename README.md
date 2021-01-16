@@ -56,7 +56,7 @@ with short paragraphs of texts to keep peoples attention and get the info across
 
 ### Skeleton
 #### Wireframes
-- Mobile Wireframes ![Home](assets/images/wireframes/Sharks Under Threat Mobile - Home.jpg) ![Threats](assets/images/wireframes/Sharks Under Threat Mobile - Under Threat.jpg) ![Actions](assets/images/wireframes/Sharks Under Threat Mobile - What we can do.jpg) ![Gallery](assets/images/wireframes/Sharks Under Threat Mobile - Gallery.jpg) ![Signup](assets/images/wireframes/Sharks Under Threat Mobile - Newsletter.jpg)
+- Mobile Wireframes ![Home](../assets/images/wireframes/Sharks Under Threat Mobile - Home.jpg) ![Threats](assets/images/wireframes/Sharks Under Threat Mobile - Under Threat.jpg) ![Actions](assets/images/wireframes/Sharks Under Threat Mobile - What we can do.jpg) ![Gallery](assets/images/wireframes/Sharks Under Threat Mobile - Gallery.jpg) ![Signup](assets/images/wireframes/Sharks Under Threat Mobile - Newsletter.jpg)
 - Deskop/Tablet Wireframes ![Home](assets/images/wireframes/Sharks Under Threat Tablet-PC - Home.jpg) ![Threats](assets/images/wireframes/Sharks Under Threat Tablet-PC - Under Threat.jpg)  ![Actions](assets/images/wireframes/Sharks Under Threat Tablet-PC - What we can do.jpg)  ![Gallery](assets/images/wireframes/Sharks Under Threat Tablet-PC - Gallery.jpg)  ![Signup](assets/images/wireframes/Sharks Under Threat Tablet-PC - Newsletter.jpg)
 
 #### Information Design
@@ -122,6 +122,17 @@ The site is split up into four diffrent pages, each is designed to be responsive
 <a name="Testing"></a>
 
 ## Testing
+### HTML Validator
+- Home
+- Threats
+- Actions
+- Signup
+
+# CSS Validator
+- Home
+- Threats
+- Actions
+- Signup
 tested on diffrent devices
 tested on diffrent web browsers
 used diffrent peoples opinions
