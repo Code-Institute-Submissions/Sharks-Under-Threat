@@ -1,6 +1,6 @@
 # Sharks-Under-Threat (Milestone Project 1)
 ![SharksUnderThreat](assets/images/readmeimages/responsive.png)
-[Visit My Site Here](https://ibrazyi.github.io/Milestone-Project-1-V2/)
+[Visit My Site Here](https://ibrazyi.github.io/Sharks-Under-Threat/)
 
 ## Overview
 This website is an information hub for people who care about sharks and other marine life. What the threats to these creatures are and also the ways in which they can,
@@ -55,7 +55,7 @@ with short paragraphs of texts to keep peoples attention and get the info across
 
 ### Skeleton
 #### Mobile Wireframes
-![Home](assets\wireframes\Sharks Under Threat Tablet-PC - Home.jpg) 
+![Home](assets/wireframes/Sharks Under Threat Mobile - Home.jpg) 
 ![Threats](assets/images/wireframes/Sharks Under Threat Mobile - Under Threat.jpg) 
 ![Actions](assets/images/wireframes/Sharks Under Threat Mobile - What we can do.jpg) 
 ![Gallery](assets/images/wireframes/Sharks Under Threat Mobile - Gallery.jpg) 
