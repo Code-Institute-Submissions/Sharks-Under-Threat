@@ -55,8 +55,18 @@ with short paragraphs of texts to keep peoples attention and get the info across
 
 ### Skeleton
 #### Wireframes
-- Mobile Wireframes ![Home](../assets/images/wireframes/Sharks Under Threat Mobile - Home.jpg) ![Threats](assets/images/wireframes/Sharks Under Threat Mobile - Under Threat.jpg) ![Actions](assets/images/wireframes/Sharks Under Threat Mobile - What we can do.jpg) ![Gallery](assets/images/wireframes/Sharks Under Threat Mobile - Gallery.jpg) ![Signup](assets/images/wireframes/Sharks Under Threat Mobile - Newsletter.jpg)
-- Deskop/Tablet Wireframes ![Home](assets/images/wireframes/Sharks Under Threat Tablet-PC - Home.jpg) ![Threats](assets/images/wireframes/Sharks Under Threat Tablet-PC - Under Threat.jpg)  ![Actions](assets/images/wireframes/Sharks Under Threat Tablet-PC - What we can do.jpg)  ![Gallery](assets/images/wireframes/Sharks Under Threat Tablet-PC - Gallery.jpg)  ![Signup](assets/images/wireframes/Sharks Under Threat Tablet-PC - Newsletter.jpg)
+- Mobile Wireframes 
+![Home](assets/images/wireframes/Sharks Under Threat Mobile - Home.jpg) 
+![Threats](assets/images/wireframes/Sharks Under Threat Mobile - Under Threat.jpg) 
+![Actions](assets/images/wireframes/Sharks Under Threat Mobile - What we can do.jpg) 
+![Gallery](assets/images/wireframes/Sharks Under Threat Mobile - Gallery.jpg) 
+![Signup](assets/images/wireframes/Sharks Under Threat Mobile - Newsletter.jpg)
+- Deskop/Tablet Wireframes 
+![Home](assets/images/wireframes/Sharks Under Threat Tablet-PC - Home.jpg) 
+![Threats](assets/images/wireframes/Sharks Under Threat Tablet-PC - Under Threat.jpg)  
+![Actions](assets/images/wireframes/Sharks Under Threat Tablet-PC - What we can do.jpg)  
+![Gallery](assets/images/wireframes/Sharks Under Threat Tablet-PC - Gallery.jpg)  
+![Signup](assets/images/wireframes/Sharks Under Threat Tablet-PC - Newsletter.jpg)
 
 #### Information Design
 - Information is split into small sections each with its own heading and image to sum up the information before reading.
