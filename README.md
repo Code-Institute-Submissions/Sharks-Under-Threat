@@ -1,6 +1,5 @@
-# Sharks-Under-Threat
+# Sharks-Under-Threat (Milestone Project 1)
 ![SharksUnderThreat](assets/images/readmeimages/responsive.png)
-# Milestone Project 1 (Sharks Under Threat)
 [Visit My Site Here](https://ibrazyi.github.io/Milestone-Project-1-V2/)
 
 ## Overview
