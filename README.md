@@ -97,7 +97,8 @@ Two fonts were selected for the use on this site they are Roboto and Oxygen, bot
 - Oxyen, this was used for the content of the page slightley less bold and with more flow than Roboto. 
 
 #### Colour Scheme
-![Colour Pallet](https://coolors.co/24b8bd-b8f8f8-06cece-08b9b9-2283bf-014141)
+
+![Colour Pallet](assets/images/readmeimages/colourpallet.png)
 The aim of the colour scheme was to represent the ocean to tie in the theme and the information. With this in mind the colours are all variants of blue slowley darkening as you get deeper into the page. The brighter blue of the header represents to sky.
 
 ## Features
