@@ -122,22 +122,8 @@ The site is split up into four diffrent pages, each is designed to be responsive
 <a name="Testing"></a>
 
 ## Testing
-### HTML Validator
-- Home
-- Threats
-- Actions
-- Signup
-
-# CSS Validator
-- Home
-- Threats
-- Actions
-- Signup
-tested on diffrent devices
-tested on diffrent web browsers
-used diffrent peoples opinions
-html validator
-css validator
+- HTML Validatior- No errors to show.
+- CSS Validator- No errors to show.
 
 
 <a name="Deployment"></a>
