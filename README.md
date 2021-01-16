@@ -58,22 +58,24 @@ with short paragraphs of texts to keep peoples attention and get the info across
 ### Skeleton
 #### Mobile Wireframes
 
+Home
 ![Home](../assets/wireframes/mobilehome.jpg) 
-
+Threats
 ![Threats](../assets/wireframes/mobileactions.jpg) 
-
+Actions
 ![Actions](../assets/wireframes/mobilethreats.jpg) 
-
+Signup
 ![Signup](../assets/wireframes/mobilesignup.jpg)
 
 #### Desktop/Tablet Wireframes
 
+Home
 ![Home](assets/wireframes/pchome.jpg) 
-
+Threats
 ![Threats](assets/wireframes/pcthreats.jpg)
-
+Actions
 ![Actions](assets/wireframes/pcactions.jpg)
-
+Signup
 ![Signup](assets/wireframes/pcsignup.jpg)
 
 #### Information Design
