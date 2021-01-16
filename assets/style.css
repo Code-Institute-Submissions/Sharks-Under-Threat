@@ -135,6 +135,15 @@ margin-bottom: 5px;
 
 /*Index*/
 
+.shark-carousel{
+    margin: 0px auto 0px auto;
+}
+
+.item{
+    width: 400px;
+    height: 300px;
+}
+
 .section-three-index{
     background-color: rgb(8, 185, 185);
     padding: 30px 10% 30px 10%;
