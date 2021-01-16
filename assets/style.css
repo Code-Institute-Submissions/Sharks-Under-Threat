@@ -415,6 +415,7 @@ margin-bottom: 5px;
 }
 
 @media (max-width:992px){
+
     .threats-image-one{
         height: 325px;  
         background-size: cover; 
