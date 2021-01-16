@@ -1,5 +1,7 @@
 # Sharks-Under-Threat (Milestone Project 1)
+
 ![SharksUnderThreat](assets/images/readmeimages/responsive.png)
+
 [Visit My Site Here](https://ibrazyi.github.io/Sharks-Under-Threat/)
 
 ## Overview
@@ -55,17 +57,24 @@ with short paragraphs of texts to keep peoples attention and get the info across
 
 ### Skeleton
 #### Mobile Wireframes
-![Home](assets\wireframes\mobilehome.jpg) 
-![Threats](assets\wireframes\mobileactions.jpg) 
-![Actions](assets\wireframes\mobilethreats.jpg) 
-![Signup](assets\wireframes\mobilesignup.jpg)
+
+![Home](../assets/wireframes/mobilehome.jpg) 
+
+![Threats](../assets/wireframes/mobileactions.jpg) 
+
+![Actions](../assets/wireframes/mobilethreats.jpg) 
+
+![Signup](../assets/wireframes/mobilesignup.jpg)
 
 #### Desktop/Tablet Wireframes
 
-![Home](assets\wireframes\pchome.jpg) 
-![Threats](assets\wireframes\pcthreats.jpg)  
-![Actions](assets\wireframes\pcactions.jpg)  
-![Signup](assets\wireframes\pcsignup.jpg)
+![Home](assets/wireframes/pchome.jpg) 
+
+![Threats](assets/wireframes/pcthreats.jpg)
+
+![Actions](assets/wireframes/pcactions.jpg)
+
+![Signup](assets/wireframes/pcsignup.jpg)
 
 #### Information Design
 - Information is split into small sections each with its own heading and image to sum up the information before reading.
@@ -89,7 +98,7 @@ Two fonts were selected for the use on this site they are Roboto and Oxygen, bot
 ![Colour Pallet](https://coolors.co/24b8bd-b8f8f8-06cece-08b9b9-2283bf-014141)
 The aim of the colour scheme was to represent the ocean to tie in the theme and the information. With this in mind the colours are all variants of blue slowley darkening as you get deeper into the page. The brighter blue of the header represents to sky.
 
-### Features
+## Features
 The site is split up into four diffrent pages, each is designed to be responsive at all screen sizes and complete with working external links.
 1. Home - Containing a Boostrap 5 Carousel, an introduction to the site and three small information cards about seperate sharks.
 2. Threats - Containing Multiple sections containing images and text displayed in an alternating manner.
@@ -107,16 +116,17 @@ The site is split up into four diffrent pages, each is designed to be responsive
 
 <a name="technolgies"></a>
 
-### Technologies Used
-#### Languages
+## Technologies Used
+
+### Languages
 - HTML5 - Used as the structure of the website and container for content.
 - CSS3 - Used to style and manipuate content with effects.
-#### Libaries
+### Libaries
 - [Boostrap](https://getbootstrap.com/) - Used for responsive design and templates for nav bar, carousel and page layout.
 - [GoogleFonts](https://fonts.google.com/) - Used as the libary for both fonts used in the webpage.
 - [FontAwesome](https://fontawesome.com/) - Used for social media icons in footer.
 - [Jquery](https://getbootstrap.com/docs/4.2/getting-started/introduction/) - Used to allow functionality of Boostrap carousel.
-#### Programs
+### Programs
 - VS Code - Where all coding took place, also using intergrated terminal.
 - Git Hub Desktop - Used to create repository and link to online Git Hub profile.
 - Git Hub - Used to host and display website.
@@ -130,6 +140,7 @@ The site is split up into four diffrent pages, each is designed to be responsive
 <a name="Testing"></a>
 
 ## Testing
+
 ### Code Validators
 - HTML Validator - No errors to show.
 - CSS Validator - No errors to show.
@@ -154,6 +165,7 @@ The site is split up into four diffrent pages, each is designed to be responsive
 <a name="Deployment"></a>
 
 ## Deployment
+
 ### Creating Repository
 1. Created new file inside documents folder named "Coding Course" and within that created a file called "Sharks-Under-Threat(Milestone Project 1)"
 2. Opened GibHub Desktop and selected "New Repository"
@@ -174,6 +186,7 @@ The site is split up into four diffrent pages, each is designed to be responsive
 <a name="credits"></a>
 
 ## Credits
+
 ### Technical
 - Social Media Icons- Matt Rudge Code Insitute resume project.
 - Boostrap 5 - Carousel, Nav Bar, List Section and structure for page layout.
