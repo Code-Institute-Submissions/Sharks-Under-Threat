@@ -1,4 +1,5 @@
 # Sharks-Under-Threat
+![SharksUnderThreat](assets/images/readmeimages/responsive.png)
 # Milestone Project 1 (Sharks Under Threat)
 [Visit My Site Here](https://ibrazyi.github.io/Milestone-Project-1-V2/)
 
@@ -55,8 +56,8 @@ with short paragraphs of texts to keep peoples attention and get the info across
 
 ### Skeleton
 #### Wireframes
-- Mobile Wireframes [Home](assets/images/wireframes/Sharks Under Threat Mobile - Home.jpg) [Threats](assets/images/wireframes/Sharks Under Threat Mobile - Under Threat.jpg) [Actions](assets/images/wireframes/Sharks Under Threat Mobile - What we can do.jpg) [Gallery](assets/images/wireframes/Sharks Under Threat Mobile - Gallery.jpg) [Signup](assets/images/wireframes/Sharks Under Threat Mobile - Newsletter.jpg)
-- Deskop/Tablet Wireframes [Home](assets/images/wireframes/Sharks Under Threat Tablet-PC - Home.jpg) [Threats](assets/images/wireframes/Sharks Under Threat Tablet-PC - Under Threat.jpg)  [Actions](assets/images/wireframes/Sharks Under Threat Tablet-PC - What we can do.jpg)  [Gallery](assets/images/wireframes/Sharks Under Threat Tablet-PC - Gallery.jpg)  [Signup](assets/images/wireframes/Sharks Under Threat Tablet-PC - Newsletter.jpg)
+- Mobile Wireframes ![Home](assets/images/wireframes/Sharks Under Threat Mobile - Home.jpg) ![Threats](assets/images/wireframes/Sharks Under Threat Mobile - Under Threat.jpg) ![Actions](assets/images/wireframes/Sharks Under Threat Mobile - What we can do.jpg) ![Gallery](assets/images/wireframes/Sharks Under Threat Mobile - Gallery.jpg) ![Signup](assets/images/wireframes/Sharks Under Threat Mobile - Newsletter.jpg)
+- Deskop/Tablet Wireframes ![Home](assets/images/wireframes/Sharks Under Threat Tablet-PC - Home.jpg) ![Threats](assets/images/wireframes/Sharks Under Threat Tablet-PC - Under Threat.jpg)  ![Actions](assets/images/wireframes/Sharks Under Threat Tablet-PC - What we can do.jpg)  ![Gallery](assets/images/wireframes/Sharks Under Threat Tablet-PC - Gallery.jpg)  ![Signup](assets/images/wireframes/Sharks Under Threat Tablet-PC - Newsletter.jpg)
 
 #### Information Design
 - Information is split into small sections each with its own heading and image to sum up the information before reading.
@@ -77,7 +78,7 @@ Two fonts were selected for the use on this site they are Roboto and Oxygen, bot
 - Oxyen, this was used for the content of the page slightley less bold and with more flow than Roboto. 
 
 #### Colour Scheme
-[Colour Pallet](https://coolors.co/24b8bd-b8f8f8-06cece-08b9b9-2283bf-014141)
+![Colour Pallet](https://coolors.co/24b8bd-b8f8f8-06cece-08b9b9-2283bf-014141)
 The aim of the colour scheme was to represent the ocean to tie in the theme and the information. With this in mind the colours are all variants of blue slowley darkening as you get deeper into the page. The brighter blue of the header represents to sky.
 
 ### Features
