@@ -269,6 +269,7 @@ margin-bottom: 5px;
 .signup-image{
     background-image: url(../assets/images/signup/sharksbackground.jpg);
     background-size: cover;
+    height: 100%;
 }
 
 .form-section{
