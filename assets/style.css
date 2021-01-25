@@ -190,11 +190,10 @@ margin-bottom: 5px;
 /*Threats*/
 
 .threats-content{
-    color: whitesmoke;
+    color:#262626;
     margin: auto;
     padding-left: 20px;
     padding-right: 20px;
-    text-shadow: #000 0px 0px 4px;
 }
 
 .threats-image-one{
@@ -224,11 +223,10 @@ margin-bottom: 5px;
 /*Actions*/
 
 .actions-content{
-    color: whitesmoke;
+    color:#262626;
     margin: auto;
     padding-left: 20px;
     padding-right: 20px;
-    text-shadow: #000 0px 0px 4px;
 }
 
 .actions-image-one{
