@@ -293,6 +293,10 @@ margin-bottom: 5px;
     text-transform: uppercase;
 }
 
+.radio-button{
+    padding-top: 15px;
+}
+
 /*Footer Styling*/
 
 .footer-style{
