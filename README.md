@@ -166,10 +166,12 @@ The site is split up into four different pages, each is designed to be responsiv
 - Automatically begins rotating through images.
 - Labels work and are in the correct position.
 - Slide navigation buttons work with their corresponding side.
+### Sign-Up
+- Form placeholder text works as intended.
+- Validation works on both "name" and "email" sections.
 ### Code Validators
 - HTML Validator - No errors to show.
 - CSS Validator - No errors to show.
-
 ### Devices
 - Iphone 6/7/8 - Displays as intended.
 - Samsung Galaxy S9 - Displays as intended.
@@ -177,7 +179,6 @@ The site is split up into four different pages, each is designed to be responsiv
 - Ipad - Displays as intended.
 - Laptop - Displays as intended.
 - Desktop - Displays as intended.
-
 ### Browsers 
 - Chrome - No errors.
 - Firefox - No errors.
@@ -185,7 +186,14 @@ The site is split up into four different pages, each is designed to be responsiv
 - Microsoft Edge - No errors.
 - Opera - No errors.
 - Safari - No errors.
-
+### User Stories
+#### First Time Visitor
+- The home page has sharp bright colours and large images drawing the eye.
+- The pages have a linear flow and makes obvious what page you are currently on.
+- The information on all pages is short and concise making sure they don't lose attention and only important information is passed on.
+#### Returning User
+- Sign up page is easy to find and minimalistic so the user knows what the purpose is.
+- Social media links are easy to locate and to see for quick access.
 
 <a name="Deployment"></a>
 
