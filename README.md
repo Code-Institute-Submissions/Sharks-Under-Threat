@@ -14,7 +14,7 @@ This website is an information hub for people who care about sharks and other ma
 
 [Features](#features)
 
-[Technolgies Used](#technolgies)
+[Technologies Used](#technologies)
 
 [Testing](#testing)
 
@@ -86,7 +86,7 @@ This website is an information hub for people who care about sharks and other ma
 
 #### Information Design
 - Information is split into small sections, each with its own heading and image to sum up the information before reading.
-- More factual information is represent in smaller information boxes with seperate headings and different styling to main text.
+- More factual information is represent in smaller information boxes with separate headings and different styling to main text.
 
 #### Interface Design
 - Information is layed-out in a top-to-bottom manner, allowing for easy navigation of the page.
@@ -94,7 +94,7 @@ This website is an information hub for people who care about sharks and other ma
 
 #### Navigation Design
 - Navigation is located at the top of the page, showing importance and ease of access for the user.
-- Current page is highlighted so it is obvious what page the user is currently on, so they dont get lost.
+- Current page is highlighted so it is obvious what page the user is currently on, so they don't get lost.
 
 ### Surface
 #### Typography
@@ -108,7 +108,7 @@ Two fonts were selected for use on this site: Roboto and Oxygen. Both are from [
 The aim of the colour scheme was to represent the ocean, tying together the theme and the information. With this in mind,the colours are all variants of blue that gradually darken as you get deeper into the page. The brighter blue of the header represents the sky.
 
 ## Features
-The site is split up into four diffrent pages, each is designed to be responsive at all screen sizes and complete with working external links. 
+The site is split up into four different pages, each is designed to be responsive at all screen sizes and complete with working external links. 
 1. Home - Containing a Boostrap 5 Carousel, an introduction to the site and three small information cards about seperate sharks.
 2. Threats - Containing multiple sections including images and text displayed in an alternating manner.
 3. Actions - Containing multiple sections including images and text displayed in an alternating manner.
@@ -123,20 +123,20 @@ The site is split up into four diffrent pages, each is designed to be responsive
 - Possibility of adding another page containing a gallery of multiple images of sharks, this would be responsive and contain mouseover elements.
 
 
-<a name="technolgies"></a>
+<a name="technologies"></a>
 
 ## Technologies Used
 
 ### Languages
 - HTML5 - Used as the structure of the website and container for content.
 - CSS3 - Used to style and manipulate content with effects.
-### Libaries
+### Libraries
 - [Boostrap](https://getbootstrap.com/) - Used for responsive design and templates for nav bar, carousel and page layout.
 - [GoogleFonts](https://fonts.google.com/) - Used as the library for both fonts used in the webpage.
 - [FontAwesome](https://fontawesome.com/) - Used for social media icons in footer.
 - [Jquery](https://getbootstrap.com/docs/4.2/getting-started/introduction/) - Used to allow functionality of Boostrap carousel.
 ### Programs
-- VS Code - Where all coding took place, also using intergrated terminal.
+- VS Code - Where all coding took place, also using integrated terminal.
 - Git Hub Desktop - Used to create repository and link to online Git Hub profile.
 - Git Hub - Used to host and display website.
 - Adobe XD - Used for the creation of wireframes.
@@ -149,6 +149,19 @@ The site is split up into four diffrent pages, each is designed to be responsive
 <a name="Testing"></a>
 
 ## Testing
+
+### Nav Bar
+- When loading home page "home" selector on nav bar is active.
+- When hovering over each nav element text changes colour as planned.
+- Upon clicking on "threats" selector page is loaded and nav item is highlighted displaying that is the page you are on.
+- Upon clicking on "actions" selector page is loaded and nav item is highlighted displaying that is the page you are on.
+- Upon clicking on "signup" selector page is loaded and nav item is highlighted displaying that is the page you are on.
+### Footer
+- When hovering over social media icons they change colour as intended.
+- Clicking each link opens the social media site in a new tab.
+- Clicking the link to my GitHub pages takes user to the page in a new tab.
+- Footer remains at the bottom of page regardless of screen size.
+- Personal message and GitHub link disappear at smaller screen sizes as intended.
 
 ### Code Validators
 - HTML Validator - No errors to show.
@@ -182,7 +195,7 @@ The site is split up into four diffrent pages, each is designed to be responsive
 4. Opened the repository in VS Code
 5. Created index.html and README.md pages
 6. Opened up local terminal and "Git Added" both pages.
-7. Commited both pages using "Git Commit".
+7. Committed both pages using "Git Commit".
 8. Pushed changed with "Git Push" adding my work to my Git Hub page.
 9. Opened my GitHib page to see the changes.
 
@@ -197,7 +210,7 @@ The site is split up into four diffrent pages, each is designed to be responsive
 ## Credits
 
 ### Technical
-- Social Media Icons- Matt Rudge Code Insitute resume project.
+- Social Media Icons- Matt Rudge Code Institute resume project.
 - Boostrap 5 - Carousel, Nav Bar, List Section and structure for page layout.
 - Google Fonts - All fonts
 - Font Awesome - Social Media Icons
