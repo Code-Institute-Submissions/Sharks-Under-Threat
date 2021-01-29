@@ -162,7 +162,10 @@ The site is split up into four different pages, each is designed to be responsiv
 - Clicking the link to my GitHub pages takes user to the page in a new tab.
 - Footer remains at the bottom of page regardless of screen size.
 - Personal message and GitHub link disappear at smaller screen sizes as intended.
-
+### Carousel
+- Automatically begins rotating through images.
+- Labels work and are in the correct position.
+- Slide navigation buttons work with their corresponding side.
 ### Code Validators
 - HTML Validator - No errors to show.
 - CSS Validator - No errors to show.
